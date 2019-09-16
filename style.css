@@ -1,0 +1,17 @@
+h2 {
+    color: purple;
+}
+
+ul {
+    color: red;
+    font-size: 250%;
+}
+
+ol {
+	color: blue;
+	font-size: 250%;
+}
+
+body {
+	background-color:#0000FF;
+}
